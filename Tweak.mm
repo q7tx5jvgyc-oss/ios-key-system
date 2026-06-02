@@ -35,3 +35,4 @@ __attribute__((constructor)) static void initialize_key_system() {
         [[UIApplication sharedApplication].keyWindow.rootViewController presentViewController:alert animated:YES completion:nil];
     });
 }
+ 
