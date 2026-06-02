@@ -1,0 +1,7 @@
+Package: com.yourchannel.securitykey
+Name: SecurityKey
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Key verification system for iOS apps.
+Maintainer: Mostahau
